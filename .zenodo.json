@@ -1,0 +1,14 @@
+{
+  "title": "Black Hole Indices of N = 8 String Theory Are Positive: LaTeX source and verification code",
+  "upload_type": "software",
+  "description": "LaTeX source, figures and verification code for the paper \"Black Hole Indices of N = 8 String Theory Are Positive\".",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, India; Formerly, University of Calcutta (Heramba Chandra College), Kolkata, India",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["black hole microstates", "helicity trace index", "Jacobi forms"]
+}
