@@ -8,4 +8,6 @@ LaTeX source, figures and verification code for the paper. Run the checks with
 
 (Python 3, standard library only). The figures are made by `figures/make_figs.py` (matplotlib).
 
+DOI (all versions): https://doi.org/10.5281/zenodo.24122288
+
 GitHub-related contact: egspl@proton.me
